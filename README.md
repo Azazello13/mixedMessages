@@ -1,6 +1,6 @@
 # My first README.me
 
-Simple random poem generator created using Javascript
+Blabla
 
 ## Table of contents
 - [My first README.me](#my-first-readmeme)
